@@ -1,0 +1,32 @@
+.boarder{
+    background-color:#34b7eb; color: aliceblue;
+}
+
+.color{
+    color:#34b7eb;
+}
+
+.color2{
+    color:#3490eb;
+}
+
+.text {
+    max-width: 500px; /* Sets a maximum width for the text */
+}
+
+h1, h2 {
+    font-family: 'Playfair Display', sans-serif;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+.contact-info {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
